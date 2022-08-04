@@ -1,0 +1,13 @@
+12.
+
+int main()
+{
+int x = printf(“ineuron”);
+printf(“%d”,x);
+return 0;
+}
+
+Output:ineuron7
+
+Explanation: The printf function returns the number of characters successfully printed on the screen.
+             The String ineuron has 7 characters, so the first printf prints "ineuron" and returns 7.
